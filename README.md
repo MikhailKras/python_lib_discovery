@@ -10,6 +10,10 @@ Each subdirectory in this repository corresponds to a specific Python library. W
 - Experiments and mini-projects demonstrating practical applications.
 - Learning notes and insights gained from working with the library.
 
+## Library Subdirectories
+
+- **[loguru](https://github.com/Delgan/loguru):** Python logging made (stupidly) simple
+
 ## Why This Repository?
 
 This repository serves as a personal learning journey and a way to share my experiences with different Python libraries. By experimenting with a wide range of libraries, I hope to expand my skills and discover new tools to use in future projects.

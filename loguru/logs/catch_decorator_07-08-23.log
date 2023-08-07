@@ -1,0 +1,17 @@
+2023-08-07T17:50:03.334078+0300 ERROR An error has been caught in function '<module>', process 'MainProcess' (9542), thread 'MainThread' (139748587380736):
+Traceback (most recent call last):
+
+> File "/home/mikhail/Documents/python_lib_discovery/loguru/catch_decorator.py", line 21, in <module>
+    main()
+    └ <function main at 0x7f19bef54040>
+
+  File "/home/mikhail/Documents/python_lib_discovery/loguru/catch_decorator.py", line 18, in main
+    divide(1, 0)
+    └ <function divide at 0x7f19bfbf4e00>
+
+  File "/home/mikhail/Documents/python_lib_discovery/loguru/catch_decorator.py", line 13, in divide
+    return a / b
+           │   └ 0
+           └ 1
+
+ZeroDivisionError: division by zero
