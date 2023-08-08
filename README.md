@@ -13,6 +13,7 @@ Each subdirectory in this repository corresponds to a specific Python library. W
 ## Library Subdirectories
 
 - **[loguru](https://github.com/Delgan/loguru):** Python logging made (stupidly) simple
+- **[logging](https://docs.python.org/3/library/logging.html):** Logging facility for Python
 
 ## Why This Repository?
 
